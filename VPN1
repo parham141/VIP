@@ -4,8 +4,11 @@ VIP
 //subscription-userinfo: upload=5000; download=5000; total=10737418240000000; expire=2546249531
 
 
-warp://[2606:4700:d1::710:6d45:a635:5f6b]:943/?ifp=1-5#warp-ir&&detour=warp://188.114.97.186:4500/?ifp=1-5#warp-main#@vpnbaz
-warp://[2606:4700:d1::c7b0:7ced:9823:4267]:7281/?ifp=1-5#warp-ir&&detour=warp://188.114.97.249:7559/?ifp=1-5#warp-main#@vpnbaz
-warp://[2606:4700:d1::f6c5:3fa0:1fc7:7312]:8319/?ifp=1-5#warp-ir&&detour=warp://188.114.99.49:928/?ifp=1-5#warp-main#@vpnbaz
+warp://[2606:4700:d1::710:6d45:a635:5f6b]:943/?ifp=1-5#warp-ir&&detour=warp://188.114.97.186:4500/?ifp=1-5#warp-main#@v1
+warp://[2606:4700:d1::c7b0:7ced:9823:4267]:7281/?ifp=1-5#warp-ir&&detour=warp://188.114.97.249:7559/?ifp=1-5#warp-main#@v2
+warp://[2606:4700:d1::f6c5:3fa0:1fc7:7312]:8319/?ifp=1-5#warp-ir&&detour=warp://188.114.99.49:928/?ifp=1-5#warp-main#v3
 
+vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&path=%2F&host=snapp.ir&headerType=http&security=none#parham1
+
+vless://40090834-1406-4c25-9c51-326d897e9aab@sir.serverpower657.fun:26810?type=tcp&security=none#parham2
 
