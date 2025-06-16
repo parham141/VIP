@@ -2,10 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=5000; download=5000; total=10737418240000000; expire=2546249531
 
-
-warp://188.114.99.15:8319/?ifp=5-10#1
-
-warp://188.114.99.155:8319/?ifp=5-10#2
-warp://188.114.99.19:8319/?ifp=5-10#3
-warp://188.114.99.196:864/?ifp=5-10#4
-
+vless://7d378f7c-ccb7-4b17-a0ac-f070f3b62d75@104.17.148.22:2086?path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=wwW.speedtesT.net.eLectrolUxxv.ir.&type=httpupgrade#p1
+vless://18f59918-6f50-4e80-81f2-ba0ed6ed3a47@151.101.64.155:80?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=KEISJWJ.COM&type=ws#p2
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#p3
+vless://948f6596-66f9-4707-aa92-3107a214ce53@172.67.212.233:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=oops.shalamshorba.dpdns.org&fp=random&type=ws&sni=oops.shalamshorba.dpdns.org#p4
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.213.213:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=random&type=ws&sni=varzesh3.varzesh.dpdns.org#p5
