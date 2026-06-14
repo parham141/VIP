@@ -4,8 +4,20 @@ VIP
 //subscription-userinfo: upload=5000; download=5000; total=10737418240000000
 
 ....
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@votewa.gov:443?path=%2F185.186.245.40%3A81&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#T1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.20.146:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#T2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.140.209.188:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#T3
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@152.53.66.46:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.jojack.ru&sid=8dc4fccb2bcfc99d#T4
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#T5
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#1
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#2
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#3
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws#4
+vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443?path=%2F7bd180e8&security=tls&encryption=none&host=python-graysongon.wasmer.app&type=ws&sni=python-graysongon.wasmer.app#5
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#6
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#7
+
+
+
+
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@109.236.57.72:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?security=reality&encryption=none&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d3ee47fc2f553c44#2.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+
+
+
+
